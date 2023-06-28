@@ -1,3 +1,8 @@
 div { width: 256px; height: 192px; display: block; }
+<<<<<<< HEAD
 img { width: 200px; height: 94px; }
 table { border-style:dashed; }
+=======
+/* img { width: 200px; height: 94px; } */
+table { border-style:dotted; }
+>>>>>>> 1287e71de68c761b19cfa29afe61dda1b1e850ee
